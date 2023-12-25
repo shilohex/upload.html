@@ -1,0 +1,38 @@
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: Roboto;
+}
+.blue{
+    color: rgb(106, 0, 255);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#box{
+    border: 10px;
+}
+h1,.blue{
+    color:black;
+    font-weight: 400;
+}
+li{
+    
+    color: aquamarine;
+    
+}
+.box p{
+    color: grey;
+    border-bottom: 10pc;
+    padding-inline: 1%;
+    background-color:palegoldenrod;
+    font-weight: 400;
+
+}
+div>h1{
+    font-weight: 400;
+    padding: 1%;
+    color: grey;
+    background-color:bisque;
+}
