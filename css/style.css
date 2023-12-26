@@ -36,3 +36,19 @@ div>h1{
     color: grey;
     background-color:bisque;
 }
+
+h1:hover {
+    color:orangered;
+} 
+a:active{
+    color:aqua
+}
+p:link{
+    color: blue;
+}
+div{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
