@@ -16,6 +16,7 @@ h1{
 h1,.blue{
     color:black;
     font-weight: 400;
+    letter-spacing: 0cap;
 }
 li{
     
@@ -47,8 +48,14 @@ p:link{
     color: blue;
 }
 div{
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+div{
+    text-align: center;
+    text-decoration: wavy;
+    
+
 }
